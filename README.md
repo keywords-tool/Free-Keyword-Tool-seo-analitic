@@ -1,9 +1,6 @@
 <h1 align="center">Keyword tool & For Google ads, Facebook, Bing, SEO Optimisation!</h1>
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/MIT-grey?logo=MIT&logoColor=white&style=for-the-badge" alt="MIT Badge"/>
-  <img src="https://img.shields.io/badge/Windows-blue?logo=Windows&logoColor=white&style=for-the-badge" alt="Windows Badge"/>
-  <img src="https://img.shields.io/badge/License-dark?logo=License&logoColor=white&style=for-the-badge" alt="License Badge"/>
   <div id="header"">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlsOG9hdmV3NzFsdXN2M2txaThqcTc4czdpMmhvM3dyYzV4cWJobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cQ5NHirTdgxoO9Q4P5/giphy.gif" width="300"/>
 </div>
