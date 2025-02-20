@@ -60,6 +60,3 @@ With Free Keyword Tool you also have the option to filter your results by indust
 For example, if you search for keywords related to “cars” while selecting “Arts & Entertainment” as the industry, you’ll see results like “cars movie,” “disney cars,” and “pixar cars.” However, if you input the same term and change the industry to “Finance & Banking,” you’ll see results like “new car incentives” and “new car lease.”
 
 You can filter your results by 24 business verticals, including Apparel, Arts & Entertainment, Autos & Vehicles, Beauty & Fitness, Books & Literature, Business & Industrial, Computers & Electronics, Finance & Banking, Food & Drink, Toys & Games, Health, Hobbies & Leisure, Home & Garden, Internet & Telecom, Jobs & Education, Law & Government, News Media & Publications, Family & Community, Occasions & Gifts, Pets & Animals, Real Estate, Retail & General Merchandise, Sports & Fitness, and Travel & Tourism.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
