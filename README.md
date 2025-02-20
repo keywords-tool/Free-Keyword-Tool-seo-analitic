@@ -1,7 +1,5 @@
-<h1 align="center">Keyword tool | For Google ads, Facebook, Bing and others!</h1>
-<p align="center">
-  <img src="https://i.ytimg.com/vi/PiztEfqNOKw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDaTVyLQH5f3Cg5Ov89Qsd2TUbYHw"  width="auto" height="auto">
-</p>
+<h1 align="center">Keyword tool & For Google ads, Facebook, Bing, SEO Optimisation!</h1>
+
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/MIT-grey?logo=MIT&logoColor=white&style=for-the-badge" alt="MIT Badge"/>
   <img src="https://img.shields.io/badge/Windows-blue?logo=Windows&logoColor=white&style=for-the-badge" alt="Windows Badge"/>
