@@ -1,3 +1,7 @@
+<head> 
+    <meta name="google-site-verification" content="WlFlO022cNLx0_SJbVfDTUgIi8Plv6gKlN9dVyghxPk" />
+</head>
+    
 <h1 style="color: #e74c3c; text-align: center;">Keyword tool & For Google ads, Facebook, Bing, SEO Optimisation</h1>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlsOG9hdmV3NzFsdXN2M2txaThqcTc4czdpMmhvM3dyYzV4cWJobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cQ5NHirTdgxoO9Q4P5/giphy.gif" width="300"/>
